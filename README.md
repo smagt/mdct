@@ -18,6 +18,8 @@ MDCT4 Calculates the Modified Discrete Cosine Transform
    y: MDCT of x (coefs are divided by sqrt(N))
 
 
+_The below gives the contents of the Jupyter notebook._
+
 
 ```python
 import numpy as np
